@@ -3,7 +3,7 @@
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 - Bagaimana membuat solusi dalam bentuk program yang efektif dan efisien
 - Langkahnya seperti apa untuk bisa menyelesaikan masalah, untuk lebih efektif, untuk lebih efisien
-- Ini dasar dari semua pembangunan produk keinformatikaan
+- Ini adalah dasar dari semua pembangunan produk keinformatikaan
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 - Karena solusi teknologi informasi itu ditaruh di mesin komputasi
