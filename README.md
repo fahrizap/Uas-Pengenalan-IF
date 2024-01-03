@@ -1,72 +1,40 @@
 # Hello Informatics !
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
-- Bagaimana membuat solusi dalam bentuk program yang efektif dan efisien
-- Langkahnya seperti apa untuk bisa menyelesaikan masalah, untuk lebih efektif, untuk lebih efisien
-- Ini adalah dasar dari semua pembangunan produk keinformatikaan
-
+```
+https://youtu.be/b1kWBvZuKPQ?si=tu1Ak9Z8wbOlyYuE&t=1
+```
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
-- Karena solusi teknologi informasi itu ditaruh di mesin komputasi
-    - Mobil pintar
-    - Robot mini
-    - Drone pawai teratur
-    - Smartphone
-    - Game
-- Contoh
-    - PC
-    - Server
-    - Embedded computer
-    - Mobile phone
-    - Console
-
+```
+https://youtu.be/b1kWBvZuKPQ?si=rQhi08la1jfS8Gop&t=177
+```
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
-- Karena akan memudahkan latihan coding, membangun model AI, hingga riset di berbagai bidang
+```
+https://youtu.be/b1kWBvZuKPQ?si=avoaargEGzL-l4qC&t=231
+```
 
 ## Mencoba Console Sistem Operasi
-- Karena console
-    - Interface paling dasar yang bisa manusia dan aplikasi pergunakan untuk mengakses program di sistem operasi
-    - Ketika membangun solusi digital berbasis client-server, akan banyak konfigurasi dan optimalisasi program memanfaatkan console
-    - Program berbasis console jauh lebih cepat dari program berbasis GUI
-
 ### Console di Windows / Mac: Windows CMD [v] ⭐⭐⭐⭐
-
-Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
-
-### Console di Linux: Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
-
-Contoh di Google Colab:
-
-List di direktori ini ada file dan folder apa aja:
-```py
-!ls
 ```
-
-Print saya sekarang ada di posisi mana
-```py
-!pwd
+https://youtu.be/b1kWBvZuKPQ?si=4vHeURwIHhsoXBna&t=494
 ```
-
-- [Linux Command Cheat Sheet](https://phoenixnap.com/kb/linux-commands-cheat-sheet)
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
-- Contoh:
-    - Flowchart daftar ulang perkuliahan
-    - Flowchart musuh di game mengejar karakter
-    - Flowchart bayar pajak STNK
-    - Flowchart membuat paspor
-    - Flowchart sortir daftar mahasiswa
-    - Flowchart login Instagram
 
-Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
+```
+https://youtu.be/b1kWBvZuKPQ?si=jk1oXDtuyHAU993D&t=290
+```
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
-
-Referensi [1](https://scratch.mit.edu/)
+```
+https://youtu.be/b1kWBvZuKPQ?si=Ivw32P77jkxLPudU&t=361
+```
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
-- Beri penjelasan
-- Beri komentar, bahasa indonesia
-- Lebih bagus buat juga flowchart nya
+
+```
+https://youtu.be/b1kWBvZuKPQ?si=jk1oXDtuyHAU993D&t=565
+```
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 - IDE / text editor berplugin digunakan untuk membangun program menggunakan bahasa pemrograman
@@ -82,13 +50,14 @@ Referensi [1](https://scratch.mit.edu/)
 - Selesaikan topics : Algorithms / Data Structure / Mathematics, boleh pake bahasa apapun
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
-- Menggunakan evaluasi tengah semester
+```
+https://youtu.be/b1kWBvZuKPQ?si=jk1oXDtuyHAU993D&t=758
+```
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
-- Karena semua aplikasi terutama berbasis internet saat ini seperti Instagram, Youtube, Github, Tokopedia, BPJS, Internet Banking, semua, pake database
-
-Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
-Referensi tambahan [1](https://db-engines.com/en/ranking)
+```
+https://youtu.be/b1kWBvZuKPQ?si=Lvm_CoAdkNsCd-mE&t=897
+```
 
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 - Eksplorasi dan pengelolaan database, paling dasar bisa menggunakan console
@@ -111,61 +80,35 @@ Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 - Jelaskan sederhana cara kerjanya
 
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
-- Karena URL tidak hanya dipakai untuk manusia akses ke browser
-- Penggunaan utamanya saat ini adalah integrasi data misal antara Front End dan Backend, atau antara aplikasi mobile dengan server menggunakan protokol komunikasi RESTful API
-- Jadi resource itu apa sih, di kata URL ini ?
 
-Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
+```
+https://youtu.be/b1kWBvZuKPQ?si=Lvm_CoAdkNsCd-mE&t=939
+```
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 
-Referensi tool:
-- https://who.is/whois/detik.com
-- https://www.nslookup.io/domains/detik.com/webservers/
+```
+https://youtu.be/b1kWBvZuKPQ?si=Gxyi89VFbXFGrnZX&t=1076
+```
 
-Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 
-Referensi tutorial 
-- Isi konten halaman web : [HTML](https://www.w3schools.com/html/)
-- Styling halaman web : [CSS](https://www.w3schools.com/css/)
-- Interaktivitas halaman web : [JavaScript](https://www.w3schools.com/js/)
+```
+https://youtu.be/b1kWBvZuKPQ?si=Gxyi89VFbXFGrnZX&t=1157
+```
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
-Teknik:
-- On page - yang bisa kita lakukan di halaman HTML kita sendiri
-- Off page - yang bisa kita harapkan dilakukan pihak lain terhadap kita
-
-Studi kasus:
-- Wordpress SEO
-
-Referensi:
-- [On page SEO](https://backlinko.com/on-page-seo)
+```
+https://youtu.be/b1kWBvZuKPQ?si=gWl5je3eiy4Q_E8c&t=1209
+```
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
-- Karena JSON sekarang format representasi data paling populer digunakan baik untuk pengguna manusia dan utamanya untuk integrasi data antar aplikasi. Gojek ke BNI, UIN ke Kemenag, Kementerian ke KSP, aplikasi kasir ke server utama, Instagram App ke server Instagram, backup data mahasiswa
-
-```json
-{
-    "nama_data": "List Mahasiswa 2023",
-    "isi_data": [
-        {
-            "nim": "93487534",
-            "nama": "Aden",
-            "tl": 2005,
-            "aktif": true
-        },
-        {
-            "nim": "93487535",
-            "nama": "Juli",
-            "tl": 2005,
-            "aktif": true
-        }
-    ]
-}
 ```
+https://youtu.be/b1kWBvZuKPQ?si=n38d_6tYjNT5Locl&t=1283
+```
+
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
